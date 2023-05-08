@@ -1,12 +1,11 @@
 # Data wrangling, EDA, ETL and visualization Project
-
 ## Introduction
-This folder has all the files used unify all the data in the same file, __clean__ and __explore__ the data, __explain__ some information contained in this data __showing__ graphs and explaining them and the demo slides used during our demo meeting.
+An inmaginary client has given us some raw data and he needs to know some information contained in it. This folder has all the files used to unify all the data collected from the 5th survey from Kaggle on Machine learning & Data Science in 2021. The data has also been __cleaned__ and __explored__. Furthermore, some information contained in this data is __explained__, __showing__ graphs and explaining them in slides used during our demo meeting.
 
 ## Solution
-The code created to solve our client's problem is organised as follows:
+The project files are organised as follows:
 - code: it contains the code files.
-    - __code_def.ipynb__ : abc.
+    - __code_def.ipynb__ : containes all the code used for the ETL process.
 - files: it contains the files given by our client and the resulting files after the ETL process.
     - abc.
 - graphs: it contains all the images saved out of the code files.
