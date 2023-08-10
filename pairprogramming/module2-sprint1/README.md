@@ -34,7 +34,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
  
    *  [Folder numpy](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
 
-     ▪ [Lecc.1 | NumPy I: Introduccion a NumPy](/numpy/pairprog-numpy-leccion1-numpy1.ipynb)
+     ▪ [Lecc.1 | NumPy I: Introduccion a NumPy] (./numpy/pairprog-numpy-leccion1-numpy1.ipynb)
 
      ▪ Lecc.2 | NumPy II: Indexacion
 
