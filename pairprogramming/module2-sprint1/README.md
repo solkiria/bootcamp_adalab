@@ -30,36 +30,30 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 
 ---------------------------
 ###  Numpy [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
- ---------------------------
- 
-   *  [Folder numpy](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
-     
-       * [Lecc.1 | NumPy I: Introduccion a NumPy](./numpy/pairprog-numpy-leccion1-numpy1.ipynb)
-       * [Lecc.2 | NumPy II: Indexacion](./numpy/pairprog-numpy-leccion2-indexacion.ipynb)
-       * [Lecc.3 | Numpy III: Operaciones estadisticas y matematicas](./numpy/pairprog-numpy-leccion3-numpy3.ipynb)
-       * [Lecc.4 | Numpy IV: Conjuntos, distribuciones aleatorias](./numpy/pairprog-numpy-leccion4-conj_distrib_aleatorias.ipynb)
+
+* [Lecc.1 | NumPy I: Introduccion a NumPy](./numpy/pairprog-numpy-leccion1-numpy1.ipynb)
+* [Lecc.2 | NumPy II: Indexacion](./numpy/pairprog-numpy-leccion2-indexacion.ipynb)
+* [Lecc.3 | Numpy III: Operaciones estadisticas y matematicas](./numpy/pairprog-numpy-leccion3-numpy3.ipynb)
+* [Lecc.4 | Numpy IV: Conjuntos, distribuciones aleatorias](./numpy/pairprog-numpy-leccion4-conj_distrib_aleatorias.ipynb)
 
 
 
 ---------------------------
-### Pandas 
- ---------------------------
+### Pandas [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/pandas)
 
-   *  [Folder pandas](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/pandas)
+▪ [Lecc.1 | Pandas I: Dataframes y Series](./pandas/pair-prog-pandas-leccion1-pandas1.ipynb)
 
-     ▪ Lecc.1 | Pandas I: Dataframes y Series
+▪ [Lecc.2 | Pandas II: Carga y guardado de datos](./pandas/pair-prog-pandas-leccion2-cargadatos.ipynb)
 
-     ▪ Lecc.2 | Pandas II: Carga y guardado de datos
+▪ [Lecc.3 | Pandas III - Metodos Pandas](./pandas/pair-prog-pandas-leccion3-pandas3.ipynb)
 
-     ▪ Lecc.3 | Pandas III - Metodos Pandas
+▪ [Lecc.4 | Pandas IV - Filtrado de datos](./pandas/pair-prog-pandas-leccion4-filtrado.ipynb)
 
-     ▪ Lecc.4 | Pandas IV - Filtrado de datos 
+▪ [Lecc.5 | Pandas V - Unión de datos](./pandas/pair-prog-pandas-leccion5-pandas5.ipynb)
 
-     ▪ Lecc.5 | Pandas V - Unión de datos
+▪ [Lecc.6 | Pandas VI: Groupby](./pandas/pair-prog-pandas-leccion6-groupby.ipynb)
 
-     ▪ Lecc.6 | Pandas VI: Groupby
-
-     ▪ Lecc.7 | Pandas VI: Apply
+▪ [Lecc.7 | Pandas VI: Apply](./pandas/pairprog-pandas-leccion7-pandas7.ipynb)
 
 
 ---------------------------
