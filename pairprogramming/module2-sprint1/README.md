@@ -29,7 +29,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
       scipy import stats
 
 ---------------------------
-###  [Numpy](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
+###  Numpy [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
  ---------------------------
  
    *  [Folder numpy](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
