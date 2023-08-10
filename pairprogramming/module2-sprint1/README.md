@@ -1,4 +1,4 @@
-Pair programming realizado por: [Judith M.Blanco](https://www.linkedin.com/in/judith-m-blanco/) y [Sonia Ruiz]  
+Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]  
 
 
 --------------------------
@@ -32,7 +32,7 @@ Pair programming realizado por: [Judith M.Blanco](https://www.linkedin.com/in/ju
 ### Numpy 
  ---------------------------
  
-   *  [Folder numpy](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL)
+   *  [Folder numpy](/numpy/)
 
      ▪ Lecc.1 | NumPy I: Introduccion a NumPy
 
