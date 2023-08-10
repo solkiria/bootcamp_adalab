@@ -56,37 +56,30 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ▪ [Lecc.7 | Pandas VI: Apply](./pandas/pairprog-pandas-leccion7-pandas7.ipynb)
 
 
----------------------------
-### Visualizacion 
- ---------------------------
-
-   *  [Folder visualizacion](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/visualizacion)
-
-     ▪ Lecc.5 | Visualizacion I: Matplotlib
-
-     ▪ Lecc.6 | Visualizacion II: Matplotlib
-
-     ▪ Lecc.7 | Visualizacion III: Seaborn
-
 
 ---------------------------
-### Estadistica 
- ---------------------------
+### Visualizacion [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/visualizacion)
 
-   *  [Folder estadistica](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/estadistica) 
+▪ [Lecc.5 | Visualizacion I: Matplotlib](./visualizacion/pairprog-visualizacion-visualizacion1_matplotlib.ipynb)
 
-    ▪ Lecc.1 | Estadistica I: Introduccion
+▪ [Lecc.6 | Visualizacion II: Matplotlib](./visualizacion/pairprog-visualizacion-visualizacion2_matloptib.ipynb)
 
-    ▪ Lecc.2 | Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+▪ [Lecc.7 | Visualizacion III: Seaborn](./visualizacion/pairprog-visualizacion-visualizacion3_seaborn.ipynb)
 
-    ▪ Lecc.3 | Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza
+
 
 ---------------------------
-### Repaso conceptos  
- ---------------------------
+### Estadistica [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/estadistica) 
+
+▪ [Lecc.1 | Estadistica I: Introduccion](./estadistica/Estadistica_leccion1y2/pairprog-estadistica-estadistica-1_introduccion.ipynb)
+
+▪ [Lecc.2 | Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias](./estadistica/Estadistica_leccion1y2/pairprog-estadistica-estadistica2_cuartiles_pandas_tablas_frec.ipynb)
+
+▪ [Lecc.3 | Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza](./estadistica/pairprog-estadistica3_tablascont_corr_sesgos_interv.ipynb)
+
+---------------------------
+### Repaso conceptos [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/repaso%20conceptos%20estadistica%20y%20visualizacion) 
  
-   *  [Folder repaso conceptos](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/repaso%20conceptos%20estadistica%20y%20visualizacion) 
-
-     ▪ Lecc.1 | Repaso Conceptos Resumidos
+ ▪ [Lecc.1 | Repaso Conceptos Resumidos](./estadistica/pairprog-repaso-repasoconceptos.ipynb)
   
 
