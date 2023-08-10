@@ -32,9 +32,9 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ### Numpy 
  ---------------------------
  
-   *  [Folder numpy](/numpy/)
+   *  [Folder numpy](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/numpy)
 
-     ▪ Lecc.1 | NumPy I: Introduccion a NumPy
+     ▪ [Lecc.1 | NumPy I: Introduccion a NumPy](/numpy/pairprog-numpy-leccion1-numpy1.ipynb)
 
      ▪ Lecc.2 | NumPy II: Indexacion
 
@@ -47,7 +47,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ### Pandas 
  ---------------------------
 
-   *  [Folder pandas](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/pandas)
+   *  [Folder pandas](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/pandas)
 
      ▪ Lecc.1 | Pandas I: Dataframes y Series
 
@@ -68,7 +68,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ### Visualizacion 
  ---------------------------
 
-   *  [Folder visualizacion](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/visualizacion)
+   *  [Folder visualizacion](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/visualizacion)
 
      ▪ Lecc.5 | Visualizacion I: Matplotlib
 
@@ -81,7 +81,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ### Estadistica 
  ---------------------------
 
-   *  [Folder estadistica](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/estadistica) 
+   *  [Folder estadistica](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/estadistica) 
 
     ▪ Lecc.1 | Estadistica I: Introduccion
 
@@ -93,7 +93,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ### Repaso conceptos  
  ---------------------------
  
-   *  [Folder repaso conceptos](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/repaso%20conceptos%20estadistica%20y%20visualizacion) 
+   *  [Folder repaso conceptos](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/repaso%20conceptos%20estadistica%20y%20visualizacion) 
 
      ▪ Lecc.1 | Repaso Conceptos Resumidos
   
