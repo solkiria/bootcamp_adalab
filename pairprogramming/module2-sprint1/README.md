@@ -78,7 +78,7 @@ Pair programming realizado por: [Judith M.Blanco] y [Sonia Ruiz]
 ▪ [Lecc.3 | Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza](./estadistica/pairprog-estadistica3_tablascont_corr_sesgos_interv.ipynb)
 
 ---------------------------
-### Repaso conceptos [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/repaso%20conceptos%20estadistica%20y%20visualizacion) 
+### Repaso conceptos [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint1/repaso%20conceptos%20estadistica%20y%20visualizacion)
  
  ▪ [Lecc.1 | Repaso Conceptos Resumidos](./estadistica/pairprog-repaso-repasoconceptos.ipynb)
   
