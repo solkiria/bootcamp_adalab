@@ -1,7 +1,7 @@
-# DA-promoc-modulo2-sprint2-anaysonia
-EJERCICIOS REALIZADOS EN PAIR PROGRAMING Por Ana Gonzalez Bueno y Sonia Ruiz Perez
+# EJERCICIOS REALIZADOS EN PAIR PROGRAMING
+Por Ana Gonzalez Bueno y [Sonia Ruiz Perez](https://www.linkedin.com/in/sonia-ruiz-perez/)
 
-EDA:
+## EDA [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint2/eda):
 
 X - EDA I: Introduccion
 
@@ -11,7 +11,7 @@ X - EDA III: Analisis exploratorio grafico
 
 
 
-LIMPIEZA:
+## LIMPIEZA [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint2/limpieza):
 
 X - Limpieza I: Introduccion
 
@@ -25,7 +25,7 @@ X - Limpieza V: Valores nulos SKLEARN
 
 
 
-ETL:
+## ETL [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint2/etl):
 
 X - ETL I: Extraccion - API's
 
