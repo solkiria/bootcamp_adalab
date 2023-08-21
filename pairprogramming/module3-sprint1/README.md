@@ -1,9 +1,8 @@
-# DA-promo-c-modulo-3-sprint-1-sonia-pilar
 # Ejercicios Realizados en Pair Programming - Modulo 3 - Sprint 1 
-### Por Pilar García Murillo y Sonia Ruiz Pérez
+### Por Pilar García Murillo y [Sonia Ruiz Pérez](https://www.linkedin.com/in/sonia-ruiz-perez/)
 
 
-**Regresión Lineal**:
+## Regresión Lineal [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module3-sprint1/regresion_lineal):
 
 - [x] - 1 - Intro a Machine Learning
 
@@ -30,7 +29,7 @@
 - [x] - 12 - Random Forest
 
 
-**Regresión Logística**:
+## Regresión Logística [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module3-sprint1/regresion_logistica):
 
 - [x] - 13 - EDA
 
