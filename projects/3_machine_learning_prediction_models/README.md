@@ -1,7 +1,7 @@
 # Machine Learning prediction models Project
 
 ## Introduction
-Data from company: Capital Bike Sharing (CBS) de Washington, D.C., USA.
+Data from company: Capital Bike Sharing (CBS), Washington, D.C., USA.
 
 
 ## Materials
@@ -17,7 +17,7 @@ publisher={Springer Berlin Heidelberg},
 keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
 
 
-- Tiempo meteorológico del dataset obtenido de:
+- Weather forecast obtained from:
  Freemeteo: Washington D.C. weather history. http://www.freemeteo.com (2013)
 
 ## Solution
