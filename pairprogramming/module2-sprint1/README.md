@@ -1,5 +1,6 @@
-Pair programming realizado por: Judith M.Blanco y [Sonia Ruiz](https://www.linkedin.com/in/sonia-ruiz-perez/)
-
+# EJERCICIOS REALIZADOS EN PAIR PROGRAMING
+## Modulo 2 - Sprint 1
+Por Judith M.Blanco y [Sonia Ruiz Perez](https://www.linkedin.com/in/sonia-ruiz-perez/)
 
 --------------------------
 # Numpy / Pandas  / Estadística / Visualización 
