@@ -1,5 +1,5 @@
-# Data wrangling, EDA, ETL and visualization Project
-(project-da-promo-C-module-3-team-4)
+# Machine Learning prediction models Project
+
 ## Introduction
 Data from company: Capital Bike Sharing (CBS) de Washington, D.C., USA.
 
