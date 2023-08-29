@@ -1,6 +1,6 @@
-# Ejercicios Realizados en Pair Programming - Modulo 3 - Sprint 1 
-### Por Pilar García Murillo y [Sonia Ruiz Pérez](https://www.linkedin.com/in/sonia-ruiz-perez/)
-
+# EJERCICIOS REALIZADOS EN PAIR PROGRAMING
+## Modulo 3 - Sprint 1
+Por Pilar García Murillo y [Sonia Ruiz Perez](https://www.linkedin.com/in/sonia-ruiz-perez/)
 
 ## Regresión Lineal [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module3-sprint1/regresion_lineal):
 
