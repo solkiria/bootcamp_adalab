@@ -1,4 +1,5 @@
 # EJERCICIOS REALIZADOS EN PAIR PROGRAMING
+## Modulo 2 - Sprint 2
 Por Ana Gonzalez Bueno y [Sonia Ruiz Perez](https://www.linkedin.com/in/sonia-ruiz-perez/)
 
 ## EDA [Folder](https://github.com/solkiria/bootcamp_adalab/tree/main/pairprogramming/module2-sprint2/eda):
