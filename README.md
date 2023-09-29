@@ -1,7 +1,7 @@
 # ADALAB Data Analytics BootCamp
 ![Alt text](https://adalab.es/wp-content/uploads/2022/03/logo-adalab.png)
 
-In this repository you will find all the Projects and PairProgrammings that I did during my bootcamp at ADALAB.
+In this repository you will find PairProgrammings that I did during my bootcamp at ADALAB.
 This include work done with Python, SQL and Tableau:
 
 - Python:
